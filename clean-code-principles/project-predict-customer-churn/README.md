@@ -89,4 +89,4 @@ The code in churn_library.py should complete data science solution process inclu
 
 6.  Test Churn Prediction:
 
-    `python churn_script_logging_and_tests.py`
+    `pytest churn_script_logging_and_tests.py`
