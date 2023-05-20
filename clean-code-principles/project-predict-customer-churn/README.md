@@ -52,7 +52,7 @@ The objective of this dataset is to predict which customers are likely to churn.
 
 ## Project Diagram 
 
-![](clean-code-principles/project-predict-customer-churn/project_diagram.jpeg)
+![Project Diagram](clean-code-principles/project-predict-customer-churn/project_diagram.jpeg)
 
 The code in churn_library.py should complete data science solution process including:
 
