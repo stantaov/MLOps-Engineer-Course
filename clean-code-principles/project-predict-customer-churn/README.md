@@ -52,7 +52,7 @@ The objective of this dataset is to predict which customers are likely to churn.
 
 ## Project Diagram 
 
-![](/home/ubuntu/Udacity/MLOps-Engineer-Course/clean-code-principles/project-predict-customer-churn/project_diagram.jpeg)
+![](clean-code-principles/project-predict-customer-churn/project_diagram.jpeg)
 
 The code in churn_library.py should complete data science solution process including:
 
@@ -90,6 +90,3 @@ The code in churn_library.py should complete data science solution process inclu
 6.  Test Churn Prediction:
 
     `python churn_script_logging_and_tests.py`
-
-
-## Run as a Docker Container
