@@ -1,0 +1,7 @@
+PATH = "./data/bank_data.csv"
+
+CATEGORY_COLUMNS = ["Gender", "Education_Level", "Marital_Status", "Income_Category", "Card_Category"]
+
+EDA_IMAGE_PTHS = ["images/eda/Customer_Age.png", "images/eda/Marital_Status.png", "images/eda/Churn.png", "images/eda/Heatmap.png", "images/eda/Total_Trans_Ct.png"]
+
+MODEL_IMAGE_PTHS = ["images/results/Feature_Importance.jpg", "images/results/Logistic_Regression.jpg", "images/results/Random_Forest.jpg"]
