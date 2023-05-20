@@ -4,7 +4,7 @@ The Nanodegree program aims to facilitate the process of integrating machine lea
 
 ## Projects
 
-[Predict Customer Churn]()  
+[Predict Customer Churn](https://github.com/stantaov/MLOps-Engineer-Course/tree/main/clean-code-principles/project-predict-customer-churn)  
 
 This project identifyes credit card customers that are most likely to churn. The project includes a Python package for a machine learning project that follows coding (PEP8) and engineering best practices for implementing software (modular, documented, and tested).
 
